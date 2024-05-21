@@ -1,0 +1,15 @@
+C:\Users\per18001398\OneDrive - Bridgwater and Taunton College\1.Higher Education\Programming and Software Fundamentals\Lawn Task\SuperMarket\SuperMarket\bin\Debug\net6.0\SuperMarket.exe
+C:\Users\per18001398\OneDrive - Bridgwater and Taunton College\1.Higher Education\Programming and Software Fundamentals\Lawn Task\SuperMarket\SuperMarket\bin\Debug\net6.0\SuperMarket.deps.json
+C:\Users\per18001398\OneDrive - Bridgwater and Taunton College\1.Higher Education\Programming and Software Fundamentals\Lawn Task\SuperMarket\SuperMarket\bin\Debug\net6.0\SuperMarket.runtimeconfig.json
+C:\Users\per18001398\OneDrive - Bridgwater and Taunton College\1.Higher Education\Programming and Software Fundamentals\Lawn Task\SuperMarket\SuperMarket\bin\Debug\net6.0\SuperMarket.dll
+C:\Users\per18001398\OneDrive - Bridgwater and Taunton College\1.Higher Education\Programming and Software Fundamentals\Lawn Task\SuperMarket\SuperMarket\bin\Debug\net6.0\ref\SuperMarket.dll
+C:\Users\per18001398\OneDrive - Bridgwater and Taunton College\1.Higher Education\Programming and Software Fundamentals\Lawn Task\SuperMarket\SuperMarket\bin\Debug\net6.0\SuperMarket.pdb
+C:\Users\per18001398\OneDrive - Bridgwater and Taunton College\1.Higher Education\Programming and Software Fundamentals\Lawn Task\SuperMarket\SuperMarket\obj\Debug\net6.0\SuperMarket.csproj.AssemblyReference.cache
+C:\Users\per18001398\OneDrive - Bridgwater and Taunton College\1.Higher Education\Programming and Software Fundamentals\Lawn Task\SuperMarket\SuperMarket\obj\Debug\net6.0\SuperMarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\per18001398\OneDrive - Bridgwater and Taunton College\1.Higher Education\Programming and Software Fundamentals\Lawn Task\SuperMarket\SuperMarket\obj\Debug\net6.0\SuperMarket.AssemblyInfoInputs.cache
+C:\Users\per18001398\OneDrive - Bridgwater and Taunton College\1.Higher Education\Programming and Software Fundamentals\Lawn Task\SuperMarket\SuperMarket\obj\Debug\net6.0\SuperMarket.AssemblyInfo.cs
+C:\Users\per18001398\OneDrive - Bridgwater and Taunton College\1.Higher Education\Programming and Software Fundamentals\Lawn Task\SuperMarket\SuperMarket\obj\Debug\net6.0\SuperMarket.csproj.CoreCompileInputs.cache
+C:\Users\per18001398\OneDrive - Bridgwater and Taunton College\1.Higher Education\Programming and Software Fundamentals\Lawn Task\SuperMarket\SuperMarket\obj\Debug\net6.0\SuperMarket.dll
+C:\Users\per18001398\OneDrive - Bridgwater and Taunton College\1.Higher Education\Programming and Software Fundamentals\Lawn Task\SuperMarket\SuperMarket\obj\Debug\net6.0\ref\SuperMarket.dll
+C:\Users\per18001398\OneDrive - Bridgwater and Taunton College\1.Higher Education\Programming and Software Fundamentals\Lawn Task\SuperMarket\SuperMarket\obj\Debug\net6.0\SuperMarket.pdb
+C:\Users\per18001398\OneDrive - Bridgwater and Taunton College\1.Higher Education\Programming and Software Fundamentals\Lawn Task\SuperMarket\SuperMarket\obj\Debug\net6.0\SuperMarket.genruntimeconfig.cache

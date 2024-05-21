@@ -1,0 +1,15 @@
+C:\Users\per18001398\OneDrive - Bridgwater and Taunton College\1.Higher Education\Programming and Software Fundamentals\Lawn Task\Lawn Task 1\Lawn Task 1\bin\Debug\net6.0\Lawn Task 1.exe
+C:\Users\per18001398\OneDrive - Bridgwater and Taunton College\1.Higher Education\Programming and Software Fundamentals\Lawn Task\Lawn Task 1\Lawn Task 1\bin\Debug\net6.0\Lawn Task 1.deps.json
+C:\Users\per18001398\OneDrive - Bridgwater and Taunton College\1.Higher Education\Programming and Software Fundamentals\Lawn Task\Lawn Task 1\Lawn Task 1\bin\Debug\net6.0\Lawn Task 1.runtimeconfig.json
+C:\Users\per18001398\OneDrive - Bridgwater and Taunton College\1.Higher Education\Programming and Software Fundamentals\Lawn Task\Lawn Task 1\Lawn Task 1\bin\Debug\net6.0\Lawn Task 1.dll
+C:\Users\per18001398\OneDrive - Bridgwater and Taunton College\1.Higher Education\Programming and Software Fundamentals\Lawn Task\Lawn Task 1\Lawn Task 1\bin\Debug\net6.0\ref\Lawn Task 1.dll
+C:\Users\per18001398\OneDrive - Bridgwater and Taunton College\1.Higher Education\Programming and Software Fundamentals\Lawn Task\Lawn Task 1\Lawn Task 1\bin\Debug\net6.0\Lawn Task 1.pdb
+C:\Users\per18001398\OneDrive - Bridgwater and Taunton College\1.Higher Education\Programming and Software Fundamentals\Lawn Task\Lawn Task 1\Lawn Task 1\obj\Debug\net6.0\Lawn Task 1.csproj.AssemblyReference.cache
+C:\Users\per18001398\OneDrive - Bridgwater and Taunton College\1.Higher Education\Programming and Software Fundamentals\Lawn Task\Lawn Task 1\Lawn Task 1\obj\Debug\net6.0\Lawn Task 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\per18001398\OneDrive - Bridgwater and Taunton College\1.Higher Education\Programming and Software Fundamentals\Lawn Task\Lawn Task 1\Lawn Task 1\obj\Debug\net6.0\Lawn Task 1.AssemblyInfoInputs.cache
+C:\Users\per18001398\OneDrive - Bridgwater and Taunton College\1.Higher Education\Programming and Software Fundamentals\Lawn Task\Lawn Task 1\Lawn Task 1\obj\Debug\net6.0\Lawn Task 1.AssemblyInfo.cs
+C:\Users\per18001398\OneDrive - Bridgwater and Taunton College\1.Higher Education\Programming and Software Fundamentals\Lawn Task\Lawn Task 1\Lawn Task 1\obj\Debug\net6.0\Lawn Task 1.csproj.CoreCompileInputs.cache
+C:\Users\per18001398\OneDrive - Bridgwater and Taunton College\1.Higher Education\Programming and Software Fundamentals\Lawn Task\Lawn Task 1\Lawn Task 1\obj\Debug\net6.0\Lawn Task 1.dll
+C:\Users\per18001398\OneDrive - Bridgwater and Taunton College\1.Higher Education\Programming and Software Fundamentals\Lawn Task\Lawn Task 1\Lawn Task 1\obj\Debug\net6.0\ref\Lawn Task 1.dll
+C:\Users\per18001398\OneDrive - Bridgwater and Taunton College\1.Higher Education\Programming and Software Fundamentals\Lawn Task\Lawn Task 1\Lawn Task 1\obj\Debug\net6.0\Lawn Task 1.pdb
+C:\Users\per18001398\OneDrive - Bridgwater and Taunton College\1.Higher Education\Programming and Software Fundamentals\Lawn Task\Lawn Task 1\Lawn Task 1\obj\Debug\net6.0\Lawn Task 1.genruntimeconfig.cache
